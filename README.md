@@ -1,5 +1,6 @@
 # Cientifica-I
 Trabalhos realizados por mim para o curso de Computação Científica I da UFRJ
+
 Eu fiz esses trabalhos utilizando o jupyter notebook e no meio descobri como instalar temas no jupyter, sendo assim:
 Sempre que encontrar plots de gráficos com a cor escura, simplesmente apague o comando 
 "
