@@ -7,6 +7,7 @@ Sempre que encontrar plots de gráficos com a cor escura, simplesmente apague o 
 
 "
 from jupyterthemes import jtplot as jt
+
 jt.style(theme="gruvboxd")
 "
 
